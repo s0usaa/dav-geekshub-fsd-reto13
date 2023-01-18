@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+}
+
+table{
+    border: outset 5px;
+    font-weight: bold;
+    width: 95vw;
+    height: 20vh;
+}
+
+td{
+    border: outset grey 2px;
+    text-align: center;
+}
+
+th{
+    border: solid black 1px;
+    background-color: lightgreen;
+}
+
+#celda2{
+    background-color: aqua;
+    border: outset grey 2px;
+    text-align: start;
+}
+
+.medio{
+    border: outset red 1px;
+    color: red;
+}
+
+#celda6{
+    background-color: pink;
+    border: outset grey 2px;
+    text-align: end;
+    vertical-align: bottom;
+}
+
